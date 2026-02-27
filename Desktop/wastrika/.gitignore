@@ -1,0 +1,15 @@
+# Python ignore
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.env
+
+# React / Node ignore
+node_modules/
+build/
+.DS_Store
+
+# Data files (Yadi thulo chha vane)
+*.npy
+*.db
